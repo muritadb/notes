@@ -1,4 +1,4 @@
 #notes
-##uejs
+##vuejs
 *anotações de estudo*
 	v
